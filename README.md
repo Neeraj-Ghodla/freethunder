@@ -48,6 +48,3 @@ npm run test
    - PATCH: `https://httpbin.org/patch`
    - DELETE: `https://httpbin.org/delete`
 
-## License
-
-MIT
